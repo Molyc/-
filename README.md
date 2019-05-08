@@ -5,3 +5,7 @@
 
 ``Everything`` 查找文件软件
 
+``Dism++`` 内存回收
+
+``Licecap``  gif图录制
+
